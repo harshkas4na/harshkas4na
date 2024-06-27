@@ -1,9 +1,12 @@
+![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
+
 <h1 align="center">Hi 👋, I'm Harsh Kasana</h1>
 <h3 align="center">A passionate MERN + Blockchain developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshkas4na&label=Profile%20views&color=0e75b6&style=flat" alt="harshkas4na" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkas4na" alt="harshkas4na" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshkas4na&theme=algolia&no-bg=true&margin-w=15&no-frame=true" alt="harshkas4na" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@harshkasan89518" target="blank"><img src="https://img.shields.io/twitter/follow/@harshkasan89518?logo=twitter&style=for-the-badge" alt="@harshkasan89518" /></a> </p>
 
