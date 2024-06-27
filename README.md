@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlwdmxmOHdrOXV2MHc2NnFsMG52dXJoeDB2bzZ1Yzk0MnFpdDFkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zXmbOaTpbY6mA/giphy.gif)
+![MasterHead](https://pin.it/4s3Y9AlfA)
 
 
 <h1 align="center">Hi 👋, I'm Harsh Kasana</h1>
