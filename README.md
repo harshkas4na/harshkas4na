@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on [SUBASTA](https://github.com/harshkas4na/Ctrl-Alt-Defeat_2.1.3)
 
-- 🌱 I’m currently learning **Rust, Solidity, Generative Ai**
+- 🌱 I’m currently learning **Rust, Solidity, Generative Ai ,Oracles ,DeFi**
 
-- 🤝 I’m looking for help with [SUBASTA](https://github.com/harshkas4na/Ctrl-Alt-Defeat_2.1.3)
+- 🤝 I’m looking for help with [SUBASTA](https://github.com/harshkas4na/Ctrl-Alt-Defeat_2.1.3), [MERCADO](https://github.com/harshkas4na/Mercado), [FIDUCIA](https://github.com/harshkas4na/Fiducia)
 
 - 💬 Ask me about **Next, Solidity, MERN stack**
 
