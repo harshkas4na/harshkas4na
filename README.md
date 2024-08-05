@@ -1,6 +1,7 @@
 
 
-![MasterHead](https://images.app.goo.gl/PhMuH83KRcMtBNuS8)
+![MasterHead](https://i.imgur.com/uUF53DP.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Harsh Kasana</h1>
