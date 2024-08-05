@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://pin.it/4s3Y9AlfA)
+![MasterHead](https://images.app.goo.gl/PhMuH83KRcMtBNuS8)
 
 
 <h1 align="center">Hi 👋, I'm Harsh Kasana</h1>
