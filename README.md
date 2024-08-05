@@ -1,6 +1,8 @@
 
-
-![MasterHead](https://i.imgur.com/uUF53DP.gif)
+<div style="background-image: url('https://i.imgur.com/uUF53DP.gif'); background-size: cover; background-position: center; padding: 20px;">
+    <h1 align="center" style="color: white;">Hi 👋, I'm Harsh Kasana</h1>
+    <h3 align="center" style="color: white;">A passionate MERN + Blockchain developer from India</h3>
+</div>
 
 
 
