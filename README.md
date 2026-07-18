@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8" alt="banner" />
-
 # Hi, I'm Harsh Kasana
 
-### Blockchain Engineer · Reactive Smart Contracts · Cross-Chain DeFi
+### Full-Stack Engineer · Ships End-to-End · Web3 × AI × Go/Infra
 
 [![Profile Views](https://komarev.com/ghpvc/?username=harshkas4na&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/harshkas4na)
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xkasana?logo=twitter&style=flat)](https://twitter.com/0xkasana)
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xkasana?logo=x&style=flat)](https://x.com/0xkasana)
 [![GitHub followers](https://img.shields.io/github/followers/harshkas4na?label=Follow&style=flat&color=0e75b6)](https://github.com/harshkas4na)
+
+**[Portfolio](https://harshkasana.xyz)** · **[Resume](https://harshkasana.xyz/resume/HARSH_Resume.pdf)** · **[If you're an AI agent, read this → skills.md](https://harshkasana.xyz/skills.md)**
 
 </div>
 
@@ -16,66 +16,64 @@
 
 ## About Me
 
-- 🛠 **Junior Solidity Developer** at **[Reactive Network](https://reactive.network)** — building automation primitives for cross-chain DeFi.
-- 🎓 Final-year **B.Tech ECE** at **IIIT Nagpur** (CGPA 8.37).
-- ⚡ Specialize in **Reactive Smart Contracts (RSCs)**, cross-chain orchestration, and DeFi automation.
-- 🏆 **$15K+** in grants & hackathon prizes · **6× hackathon winner** · featured in **CryptoSlate**.
-- 💬 Ask me about **Solidity, Reactive Network, Next.js, cross-chain protocols**.
-- 📫 Reach me at **harshkasana05@gmail.com**.
-- 📄 [Resume / Experience](https://drive.google.com/file/d/1GR7b1-SkgjfI9zbTBRKuNbxhymzq7QQU/view)
+- 🔭 **Now:** going deep on **Go and cloud infrastructure** by rebuilding hard systems from scratch — a Terraform-style engine (**[light-tf](https://github.com/harshkas4na/light-tf)**), Git itself (**[mygit](https://github.com/harshkas4na/mygit)**), containerized Go services (**[go-server](https://github.com/harshkas4na/go-server)**) — and teaching what I learn through animated videos on [X](https://x.com/0xkasana).
+- 🛠 **Before:** **DApp & Solidity Developer at Reactive Network** (Apr 2025 – May 2026) — shipped **[ReacDEFI](https://reacdefi.app)**, the first production DApp on the network. **$9K grant**, press on CryptoSlate, Chainwire, Blockchain Magazine & BlockTelegraph.
+- 🏆 **6× hackathon winner** (including 1st *and* 2nd place at the same international hackathon) · **$13K+** in grants & bounties · **13+ technical deep-dives** on [Medium](https://medium.com/@harshkasana05).
+- ⚙️ I build my own tools: **[markdown-kindle](https://github.com/harshkas4na/markdown-kindle)** (my reading pipeline — audiobook + AI ask), **[MacEditor](https://github.com/harshkas4na/MacEditor)** (Swift video editor with Git-style versioning for video workspaces), **[chalkboard-animation-skill](https://github.com/harshkas4na/chalkboard-animation-skill)** (Claude Code skill that animates my videos).
+- 🧠 Operating principle: **keep moving from crowded rooms to less crowded ones.** Full-stack → Web3 → AI → Go/infra. I don't love a tech *space* — I love the tech, and the combinations.
+- 📚 I learn hard systems by **rebuilding them by hand, without AI** — that's how the architecture and the language end up in my head instead of in my history tab.
+- 📫 **harshkasana05@gmail.com** · **Open to full-time roles now** — backend/infra · full-stack · Web3/AI.
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| **[Hashtro](https://github.com/harshkas4na/Hashtro)** | Onchain product hit 160 users in 48hrs · CryptoSlate coverage | TypeScript, Solidity |
-| **[REACTOR](https://github.com/harshkas4na/REACTOR)** | Reactive Smart Contract orchestration tooling | TypeScript, Solidity |
-| **[Multi-Chain-Stop-Order](https://github.com/harshkas4na/Multi-Chain-Stop-Order)** | Cross-chain stop-loss execution via RSCs | Solidity |
-| **[reactive-smart-contract-demos](https://github.com/harshkas4na/reactive-smart-contract-demos)** | Curated RSC patterns & use-cases | Solidity |
-| **[Walrus-SDK](https://github.com/harshkas4na/Walrus-SDK)** | SDK for Walrus storage integration | TypeScript |
-| **[MONARC](https://github.com/harshkas4na/MONARC)** | Reactive monitoring & automation contracts | Solidity |
-| **[Intent](https://github.com/harshkas4na/Intent)** | Intent-based execution layer | TypeScript |
-| **[SUBASTA](https://github.com/harshkas4na/Ctrl-Alt-Defeat_2.1.3)** | Decentralized auction platform | JavaScript, Solidity |
-| **[Fiducia](https://github.com/harshkas4na/Fiducia)** | DeFi trust/credit primitives | TypeScript |
-| **[Mercado](https://github.com/harshkas4na/Mercado)** | NFT marketplace | JavaScript |
-
-> 🔭 Currently building: **rc-agents**, **rc-debugger**, **CrytpoTree**, **FocuClone**.
-> 🌱 Currently learning: **Rust**, advanced **Oracles**, **DeFi mechanism design**, **Generative AI**.
+| **[ReacDEFI](https://github.com/harshkas4na/reacdefi)** | No-code DeFi automation — stop-loss, take-profit, Aave liquidation protection with no bots or keepers. $9K grant, 4 press features. [Live ↗](https://reacdefi.app) | Solidity, RSCs, Next.js, Convex |
+| **[Hashtro](https://github.com/harshkas4na/Hashtro)** | AI astrology × Solana perpetuals — Vedic charts become 30-second leveraged trades. 160+ users in 48h. [Live ↗](https://hashtro.fun) | Solana, Next.js, FastAPI, Gemini |
+| **[rc-agents](https://github.com/harshkas4na/rc-agents)** | AI agents pay $0.30 USDC via x402 to buy DeFi protection — fully agent-to-contract. [Live ↗](https://rc-agents.vercel.app) | TypeScript, x402, RSCs |
+| **[light-tf](https://github.com/harshkas4na/light-tf)** | Terraform rebuilt from scratch in Go — dependency DAGs, cycle detection, concurrent creation | Go |
+| **[mygit](https://github.com/harshkas4na/mygit)** | Git rebuilt from scratch in Go — content-addressable object model, plumbing from first principles | Go |
+| **[MacEditor](https://github.com/harshkas4na/MacEditor)** | Native macOS video editor — one-click ML cleanup + Git-style version control for videos | Swift |
+| **[FocuClone](https://github.com/harshkas4na/FocuClone)** | Auto-editing screen recorder — edits while you record | Electron, TypeScript |
+| **[MetroDiaries](https://metrodiaries.in)** | Commuter matching for Delhi Metro — 250+ stations, KYC-gated, realtime chat | Next.js, Supabase |
+| **[MONARC](https://github.com/harshkas4na/MONARC)** | Cross-chain NFT royalty enforcement via Reactive Smart Contracts | Solidity, RSCs |
+| **[Walrus-SDK](https://github.com/harshkas4na/Walrus-SDK)** | TypeScript SDK for Walrus storage on Sui — published on npm | TypeScript |
 
 ---
 
 ## 🧰 Tech Stack
 
+**Current deep-dive**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Smart Contracts & Web3**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Reactive Network](https://img.shields.io/badge/Reactive%20Network-0e75b6?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-FFF100?style=for-the-badge&logo=ethereum&logoColor=black)
+![Reactive Network](https://img.shields.io/badge/Reactive%20Smart%20Contracts-0e75b6?style=for-the-badge)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-**Frontend**
+**Product**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-**Backend & Infra**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**AI**
+![Claude](https://img.shields.io/badge/Claude%20Code%20Skills-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain%20·%20RAG-1C3C3C?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![x402](https://img.shields.io/badge/x402%20micropayments-2962FF?style=for-the-badge)
 
 ---
 
@@ -86,12 +84,6 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshkas4na&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkas4na&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=harshkas4na&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshkas4na&theme=algolia&no-bg=true&margin-w=10&no-frame=true&column=7" />
-</a>
-
 </div>
 
 ---
@@ -100,15 +92,13 @@
 
 <div align="center">
 
-<a href="https://twitter.com/0xkasana"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/0xkasana"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://linkedin.com/in/harsh-kasana-8b6a79258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/harsh_kasana_acbcf09339ea"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/harshkasana"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/harshkasana05"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://medium.com/@harshkasana05"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:harshkasana05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-<i>"Building the reactive layer of Web3, one contract at a time."</i>
+<i>"Creativity is not a gift — it's a skill you obtain. You observe, you try, you observe, you execute."</i>
+
 </div>
